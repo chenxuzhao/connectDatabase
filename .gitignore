@@ -1,6 +1,6 @@
 */Debug/
 */Release/
 *.VC.db
-x64/
-x86/
-.vs/
+DataBaseConnect/x64/
+DataBaseConnect/x86/
+DataBaseConnect/.vs/
