@@ -4,3 +4,8 @@
 DataBaseConnect/x64/
 DataBaseConnect/x86/
 DataBaseConnect/.vs/
+DataBaseConnect/Debug/
+DataBaseConnect/Release/
+DataBaseConnect/DataBaseConnect/Debug
+DataBaseConnect/DataBaseConnect/Release
+DataBaseConnect/DataBaseConnect/x64
